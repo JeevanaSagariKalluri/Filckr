@@ -1,2 +1,2 @@
-rootProject.name = "CoroutineRetrofit"
+rootProject.name = "Flickr"
 include ':app'
